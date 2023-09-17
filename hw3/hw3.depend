@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1684407999 source:c:\users\user\desktop\hw3\course.cpp
+	"Course.h"
+	<iostream>
+	<string>
+
+1684408021 source:c:\users\user\desktop\hw3\courselist.cpp
+	"CourseList.h"
+	"Course.h"
+
+1684407989 source:c:\users\user\desktop\hw3\student.cpp
+	"Student.h"
+	<iostream>
+	<string>
+	"CourseList.h"
+
+1684408010 source:c:\users\user\desktop\hw3\studentlist.cpp
+	"StudentList.h"
+	"Student.h"
+
+1684407993 c:\users\user\desktop\hw3\course.h
+	<string>
+
+1684407984 c:\users\user\desktop\hw3\student.h
+	<string>
+	"CourseList.h"
+
+1684408015 c:\users\user\desktop\hw3\courselist.h
+	"Course.h"
+
+1684428569 source:c:\users\user\desktop\hw3\main.cpp
+	"RegistrationSystem.h"
+
+1684426472 c:\users\user\desktop\hw3\registrationsystem.h
+	<iostream>
+	"StudentList.h"
+	"Student.h"
+	"Course.h"
+	"CourseList.h"
+
+1684408004 c:\users\user\desktop\hw3\studentlist.h
+	"Student.h"
+
+1684407979 source:c:\users\user\desktop\hw3\registrationsystem.cpp
+	<iostream>
+	"RegistrationSystem.h"
+
+1684407999 source:c:\users\user\desktop\cs201\hw3\course.cpp
+	"Course.h"
+	<iostream>
+	<string>
+
+1684407993 c:\users\user\desktop\cs201\hw3\course.h
+	<string>
+
+1684408021 source:c:\users\user\desktop\cs201\hw3\courselist.cpp
+	"CourseList.h"
+	"Course.h"
+
+1684408015 c:\users\user\desktop\cs201\hw3\courselist.h
+	"Course.h"
+
+1684430051 source:c:\users\user\desktop\cs201\hw3\registrationsystem.cpp
+	<iostream>
+	"RegistrationSystem.h"
+
+1684426472 c:\users\user\desktop\cs201\hw3\registrationsystem.h
+	<iostream>
+	"StudentList.h"
+	"Student.h"
+	"Course.h"
+	"CourseList.h"
+
+1684408004 c:\users\user\desktop\cs201\hw3\studentlist.h
+	"Student.h"
+
+1684407984 c:\users\user\desktop\cs201\hw3\student.h
+	<string>
+	"CourseList.h"
+
+1684407989 source:c:\users\user\desktop\cs201\hw3\student.cpp
+	"Student.h"
+	<iostream>
+	<string>
+	"CourseList.h"
+
+1684408010 source:c:\users\user\desktop\cs201\hw3\studentlist.cpp
+	"StudentList.h"
+	"Student.h"
+

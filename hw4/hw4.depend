@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1685473703 source:c:\users\user\desktop\hw4\algebraicexpression.cpp
+	"AlgebraicExpression.h"
+	<iostream>
+	<string>
+	<stack>
+
+1685122950 c:\users\user\desktop\hw4\algebraicexpression.h
+	<string>
+
+1685473667 source:c:\users\user\desktop\hw4\main.cpp
+	<iostream>
+	"AlgebraicExpression.h"
+

@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1680273577 source:c:\users\user\desktop\hw1\account.cpp
+	"Account.h"
+	<iostream>
+
+1680550602 c:\users\user\desktop\hw1\account.h
+	<string>
+
+1680548187 source:c:\users\user\desktop\hw1\bankingsystem.cpp
+	"BankingSystem.h"
+	<string>
+	<iostream>
+	<algorithm>
+
+1680550574 c:\users\user\desktop\hw1\bankingsystem.h
+	"Branch.h"
+	<string>
+	<iostream>
+	"Customer.h"
+
+1680550579 c:\users\user\desktop\hw1\branch.h
+	<string>
+	"Account.h"
+
+1680547095 source:c:\users\user\desktop\hw1\branch.cpp
+	"Branch.h"
+	<iostream>
+	<string>
+
+1680547104 source:c:\users\user\desktop\hw1\customer.cpp
+	"Customer.h"
+	<iostream>
+	<string>
+
+1680550584 c:\users\user\desktop\hw1\customer.h
+	<string>
+	"Account.h"
+
+1680435945 source:c:\users\user\desktop\hw1\main.cpp
+	<iostream>
+	"BankingSystem.h"
+

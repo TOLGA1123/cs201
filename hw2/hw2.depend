@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1682935591 source:c:\users\user\desktop\hw2\main.cpp
+	<stdio.h>
+	<iostream>
+	<chrono>
+	<time.h>
+	<cstdlib>
+	<iomanip>
+
